@@ -15,6 +15,7 @@
 		040E5860237C006C00CF5320 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040E585E237C006C00CF5320 /* LaunchScreen.storyboard */; };
 		040E586B237C006C00CF5320 /* raye7testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E586A237C006C00CF5320 /* raye7testTests.swift */; };
 		040E5876237C006C00CF5320 /* raye7testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E5875237C006C00CF5320 /* raye7testUITests.swift */; };
+		04BF1495237C2494000A78DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BF1494237C2494000A78DB /* SceneDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		040E5871237C006C00CF5320 /* raye7testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = raye7testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		040E5875237C006C00CF5320 /* raye7testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = raye7testUITests.swift; sourceTree = "<group>"; };
 		040E5877237C006C00CF5320 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04BF1494237C2494000A78DB /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				040E5850237C006900CF5320 /* AppDelegate.swift */,
 				040E5854237C006900CF5320 /* ViewController.swift */,
+				04BF1494237C2494000A78DB /* SceneDelegate.swift */,
 				040E5856237C006900CF5320 /* Main.storyboard */,
 				040E585C237C006C00CF5320 /* Assets.xcassets */,
 				040E585E237C006C00CF5320 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				040E5855237C006900CF5320 /* ViewController.swift in Sources */,
 				040E5851237C006900CF5320 /* AppDelegate.swift in Sources */,
 				040E585B237C006900CF5320 /* raye7test.xcdatamodeld in Sources */,
+				04BF1495237C2494000A78DB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
